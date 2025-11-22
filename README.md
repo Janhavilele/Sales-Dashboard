@@ -43,7 +43,7 @@ Dim Date – Calendar hierarchy
 
 **5. Features:**
 
-**- Business Problem:**
+**Business Problem:**
 
 Businesses struggle to analyze multi-dimensional sales data and quickly answer:
 
@@ -69,6 +69,7 @@ To create a single-screen analytical tool that:
 
 
 **Walkthrough of Key Visuals:**
+
 **i) KPI Tiles (Top Panel)**
 
 - Total Sales
@@ -126,4 +127,4 @@ Shows high-performing models such as: Road-150 Red, Mountain-200 Silver, Mountai
 
 
 **6. Screenshot:**
-![Sales Dashboard](<your-dashboard-image-path>)
+![Sales Dashboard]([<your-dashboard-image-path>](https://github.com/Janhavilele/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG))

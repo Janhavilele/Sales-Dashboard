@@ -127,4 +127,4 @@ Shows high-performing models such as: Road-150 Red, Mountain-200 Silver, Mountai
 
 
 **6. Screenshot:**
-![Dashboard Screenshot](https://github.com/Janhavilele/Energy-Consumption-Dashboard/blob/main/Energy%20Consumption%20%26%20Sustainability%20Dashboard.PNG)
+![Dashboard Screenshot]([https://github.com/Janhavilele/Energy-Consumption-Dashboard/blob/main/Energy%20Consumption%20%26%20Sustainability%20Dashboard.PNG](https://github.com/Janhavilele/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG))

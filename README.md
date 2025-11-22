@@ -30,8 +30,6 @@ Microsoft Sample Sales Dataset
 
 The dataset consists of:
 
-Key Tables
-
 Fact Sales – Sales Amount, Order Date, Product Key, Customer Key
 
 Dim Customer – Customer name, occupation, location
